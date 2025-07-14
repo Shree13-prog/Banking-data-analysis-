@@ -13,7 +13,6 @@ By visualizing this data, stakeholders can make better strategic decisions aroun
 
 ## Tools used
 - Microsoft Excel – for initial data cleaning and formatting
-- SQL – for querying and preparing structured data
 - Tableau Public – for creating interactive dashboards and visualizations
 
 ## Key questions
